@@ -1,0 +1,58 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "imagem": "./assets/img/img-angus-young.png",
+      "titulo": "Angus Young",
+      "preco": "60.00"
+    },
+    {
+      "id": "2",
+      "imagem": "./assets/img/img-bono-vox.png",
+      "titulo": "Bono Vox",
+      "preco": "50.00"
+    },
+    {
+      "id": "3",
+      "imagem": "./assets/img/img-axl-rose.png",
+      "titulo": "Axl Rose",
+      "preco": "55.00"
+    },
+    {
+      "id": "4",
+      "imagem": "./assets/img/img-freddie-mercury.png",
+      "titulo": "Freddie Mercury",
+      "preco": "58.00"
+    },
+    {
+      "id": "5",
+      "imagem": "./assets/img/img-janis-joplin.png",
+      "titulo": "Janis Joplin",
+      "preco": "69.00"
+    },
+    {
+      "id": "6",
+      "imagem": "./assets/img/img-joan-jett.png",
+      "titulo": "Joan Jett",
+      "preco": "65.00"
+    },
+    {
+      "id": "7",
+      "imagem": "./assets/img/img-ozzy.png",
+      "titulo": "Ozzy Osbourne",
+      "preco": "60.00"
+    },
+    {
+      "id": "8",
+      "imagem": "./assets/img/img-the-edge.png",
+      "titulo": "The Edhe",
+      "preco": "48.00"
+    },
+    {
+      "id": "9",
+      "imagem": "./assets/img/img-slash.png",
+      "titulo": "Slash",
+      "preco": "59.00"
+    }
+  ]
+}
